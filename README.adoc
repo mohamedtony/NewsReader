@@ -1,12 +1,10 @@
-= XYZ Reader Starter Code
+# NewsReader
+- ####	This app displays a collection of articles that are obtained from an Api   and user can see, read the details of each article.
+_________________________________________________
+- ### **`material design components`**
+- ### Fragments 
+- ### SwipeToRefresh  
+- ### CardViews 
+- ### RecyclerView
+- ### Floating Action button
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
--an existing project 
-
-- i edit it to fullfil material design 
-
-- SwipeToRefresh
-
-- Floating Action button
-
-- colors
