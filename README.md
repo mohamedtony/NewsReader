@@ -7,9 +7,9 @@
 __________________
 
 # Used Technologies 
-⋅⋅*  material design components.
-⋅⋅*  Fragments .
-⋅⋅* SwipeToRefresh  .
-⋅⋅*  CardViews .
-⋅⋅*  RecyclerView.
-⋅⋅* Floating Action button.
+-  material design components.
+-  Fragments .
+- SwipeToRefresh  .
+-  CardViews .
+-  RecyclerView.
+- Floating Action button.
